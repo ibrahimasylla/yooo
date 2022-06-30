@@ -27,7 +27,7 @@ const OurServices = () => {
               <div className="content">
                 <h3>
                   <Link href="/service-details">
-                    <a>Conception Graphique </a>
+                    <a> Création de contenu </a>
                   </Link>
                 </h3>
 
@@ -50,7 +50,7 @@ const OurServices = () => {
               <div className="content">
                 <h3>
                   <Link href="/service-details">
-                    <a>Création de contenu </a>
+                    <a>Création de site Internet </a>
                   </Link>
                 </h3>
 
@@ -73,7 +73,7 @@ const OurServices = () => {
               <div className="content">
                 <h3>
                   <Link href="/service-details">
-                    <a> Application </a>
+                    <a>Marketing digital</a>
                   </Link>
                 </h3>
 
@@ -91,11 +91,11 @@ const OurServices = () => {
                 src="/images/agency-image/agency-services-img4.jpg"
                 alt="image"
               />
-
+              ,
               <div className="content">
                 <h3>
                   <Link href="/service-details">
-                    <a> Référencement naturel (SEO)</a>
+                    <a> Conception graphique </a>
                   </Link>
                 </h3>
 
@@ -118,7 +118,7 @@ const OurServices = () => {
               <div className="content">
                 <h3>
                   <Link href="/service-details">
-                    <a>Publicité sur les média sociaux </a>
+                    <a>Création d'application mobile</a>
                   </Link>
                 </h3>
 
@@ -142,7 +142,7 @@ const OurServices = () => {
               <div className="content">
                 <h3>
                   <Link href="/service-details">
-                    <a>Strategie de marketing numerique </a>
+                    <a>Créationç d'application Web</a>
                   </Link>
                 </h3>
 

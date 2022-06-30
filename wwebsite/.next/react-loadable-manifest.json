@@ -1,0 +1,24 @@
+{
+  "../components/Common/FeedbackStyleFive.js -> react-owl-carousel3": {
+    "id": "./node_modules/react-owl-carousel3/lib/OwlCarousel.js",
+    "files": []
+  },
+  "../components/Common/FeedbackStyleThree.js -> react-owl-carousel3": {
+    "id": "./node_modules/react-owl-carousel3/lib/OwlCarousel.js",
+    "files": []
+  },
+  "../components/Common/FeedbackStyleTwo.js -> react-owl-carousel3": {
+    "id": "./node_modules/react-owl-carousel3/lib/OwlCarousel.js",
+    "files": []
+  },
+  "../components/Common/Team.js -> react-owl-carousel3": {
+    "id": "./node_modules/react-owl-carousel3/lib/OwlCarousel.js",
+    "files": [
+      "static/chunks/node_modules_react-owl-carousel3_lib_OwlCarousel_js.js"
+    ]
+  },
+  "../components/DigitalAgency/Projects.js -> react-owl-carousel3": {
+    "id": "./node_modules/react-owl-carousel3/lib/OwlCarousel.js",
+    "files": []
+  }
+}
