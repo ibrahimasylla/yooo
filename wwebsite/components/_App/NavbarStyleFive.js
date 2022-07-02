@@ -34,19 +34,7 @@ const NavbarStyleFive = () => {
                             </a>
                         </Link>
 
-                        {/* <button 
-                            onClick={toggleNavbar} 
-                            className={classTwo}
-                            type="button" 
-                            data-toggle="collapse" 
-                            data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" 
-                            aria-expanded="false" 
-                            aria-label="Toggle navigation"
-                        >
-                            <span className="icon-bar top-bar"></span>
-                            <span className="icon-bar middle-bar"></span>
-                            <span className="icon-bar bottom-bar"></span>
-                        </button> */}
+                       
 
                         <div className={classOne} id="navbarSupportedContent">
                             <ul className="navbar-nav">
@@ -59,7 +47,7 @@ const NavbarStyleFive = () => {
                                 </li>
                                 <li className="nav-item">
                                     <Link href="/about-1" activeClassName="active">
-                                        <a onClick={toggleNavbar} className="nav-link">A propos</a>
+                                        <a onClick={toggleNavbar} className="nav-link">À propos</a>
                                     </Link>
                                 </li>
 

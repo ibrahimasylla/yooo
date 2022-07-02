@@ -6,6 +6,7 @@ import FunFactsArea from "@/components/Common/FunFactsArea";
 import Partner from "@/components/Common/Partner";
 import Footer from "@/components/_App/Footer";
 import PageBanner from "@/components/Common/PageBanner";
+import FeedbackStyleFour from "@/components/Common/FeedbackStyleFour";
 
 const About1 = () => {
   return (
@@ -13,7 +14,7 @@ const About1 = () => {
       {/* <Navbar /> */}
       <NavbarStyleFive />
 
-      <PageBanner pageTitle="About Us" />
+      <PageBanner pageTitle="À propos" />
 
       <div className="about-area ptb-80">
         <div className="container">
@@ -27,12 +28,13 @@ const About1 = () => {
             <div className="col-lg-6 col-md-12">
               <div className="about-content">
                 <div className="section-title">
-                  <h2>About Us</h2>
+                  <h2>À propos</h2>
                   <div className="bar"></div>
                   <p>
-                    Lorem ipsum dolor sit amet, con se ctetur adipiscing elit.
-                    In sagittis eg esta ante, sed viverra nunc tinci dunt nec
-                    elei fend et tiram.
+                    Nous sommes une agence numérique primée, passionnée, dévouée
+                    et engagée à fournir d'excellents résultats. Nous sommes
+                    fiers de nos compétences exceptionnelles en communication et
+                    nous nous efforçons de dépasser les attentes de nos clients.
                   </p>
                 </div>
 
@@ -62,33 +64,37 @@ const About1 = () => {
             <div className="row justify-content-center">
               <div className="col-lg-4 col-md-6 col-sm-6">
                 <div className="about-text">
-                  <h3>Our History</h3>
+                  <h3>Des experts digitaux dédiés</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, con se ctetur adipiscing elit.
-                    In sagittis eg esta ante, sed viverra nunc tinci dunt nec
-                    elei fend et tiram.
+                    Nos petites équipes, interdisciplinaires et passionnées
+                    (consultants, designers, développeurs, chefs de projet web),
+                    travaillent en étroite collaboration avec nos Clients, pour
+                    trouver de nouvelles opportunités de visibilité et de
+                    croissance.
                   </p>
                 </div>
               </div>
 
               <div className="col-lg-4 col-md-6 col-sm-6">
                 <div className="about-text">
-                  <h3>Our Mission</h3>
+                  <h3> Une communication fluide</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, con se ctetur adipiscing elit.
-                    In sagittis eg esta ante, sed viverra nunc tinci dunt nec
-                    elei fend et tiram.
+                    Notre approche collaborative favorise des relations de
+                    travail agréables, une communication transparente, une
+                    utilisation efficace des ressources projets. Nos valeurs
+                    sont fondées sur l'écoute, l'humilité, le partage.
                   </p>
                 </div>
               </div>
 
               <div className="col-lg-4 col-md-6 col-sm-6">
                 <div className="about-text">
-                  <h3>Who We Are</h3>
+                  <h3>Agence digitale de proximité</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, con se ctetur adipiscing elit.
-                    In sagittis eg esta ante, sed viverra nunc tinci dunt nec
-                    elei fend et tiram.
+                    Nous prenons le temps de comprendre votre entreprise afin de
+                    générer une réelle valeur ajoutée. Nous sommes un partenaire
+                    de confiance, participant à des initiatives de marque, de
+                    marketing et de technologie pour vous aider à réussir.
                   </p>
                 </div>
               </div>
@@ -97,11 +103,7 @@ const About1 = () => {
         </div>
       </div>
 
-      <Team />
-
-      <Partner />
-
-      <FunFactsArea />
+      <FeedbackStyleFour />
 
       <Footer />
     </>

@@ -10,7 +10,9 @@ const MainBanner = () => {
                         <div className="agency-banner-content">
                             <span className="sub-title">Nous sommes </span>
                             <h1>Khasyma</h1>
-                            <p>Passionnés, sociables et créatifs, nous sommes des érudits du marketing Web.</p>
+                            <p>Khasyma est une agence web indépendante fondée à Montreal en 2019.
+Design, UX, Développement web et Référencement SEO sur mesure.
+Développez votre stratégie digitale, créez votre Site Internet et améliorez votre visibilité sur Google avec notre agence web.</p>
 
                             <Link href="/contact">
                                 <a className="btn btn-secondary">Contact</a>

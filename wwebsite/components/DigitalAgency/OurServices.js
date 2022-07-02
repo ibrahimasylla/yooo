@@ -10,10 +10,7 @@ const OurServices = () => {
           <span className="sub-title">Nos Solutions</span>
           <h2>Nos Services</h2>
           <div className="bar"></div>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          </p>
+         
         </div>
 
         <div className="row justify-content-center">
@@ -31,11 +28,7 @@ const OurServices = () => {
                   </Link>
                 </h3>
 
-                <Link href="/service-details">
-                  <a className="read-more-btn">
-                    Voir Plus <Icon.PlusCircle />
-                  </a>
-                </Link>
+               
               </div>
             </div>
           </div>
@@ -54,11 +47,7 @@ const OurServices = () => {
                   </Link>
                 </h3>
 
-                <Link href="/service-details">
-                  <a className="read-more-btn">
-                    Voir Plus <Icon.PlusCircle />
-                  </a>
-                </Link>
+                
               </div>
             </div>
           </div>
@@ -77,11 +66,7 @@ const OurServices = () => {
                   </Link>
                 </h3>
 
-                <Link href="/service-details">
-                  <a className="read-more-btn">
-                    Voir Plus <Icon.PlusCircle />
-                  </a>
-                </Link>
+              
               </div>
             </div>
           </div>
@@ -99,11 +84,7 @@ const OurServices = () => {
                   </Link>
                 </h3>
 
-                <Link href="/service-details">
-                  <a className="read-more-btn">
-                    Voir Plus <Icon.PlusCircle />
-                  </a>
-                </Link>
+               
               </div>
             </div>
           </div>
@@ -122,12 +103,6 @@ const OurServices = () => {
                   </Link>
                 </h3>
 
-                <Link href="/service-details">
-                  <a className="read-more-btn">
-                    Voir Plus
-                    <Icon.PlusCircle />
-                  </a>
-                </Link>
               </div>
             </div>
           </div>
@@ -142,15 +117,12 @@ const OurServices = () => {
               <div className="content">
                 <h3>
                   <Link href="/service-details">
-                    <a>Créationç d'application Web</a>
+                    <a>Création d'application Web</a>
                   </Link>
                 </h3>
 
-                <Link href="/service-details">
-                  <a className="read-more-btn">
-                    Voir Plus <Icon.PlusCircle />
-                  </a>
-                </Link>
+                
+                
               </div>
             </div>
           </div>

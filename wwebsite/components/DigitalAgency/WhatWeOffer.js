@@ -10,10 +10,7 @@ const WhatWeOffer = () => {
           <span className="sub-title">Ce que nous offrons</span>
           <h2>Nos solutions vedettes</h2>
           <div className="bar"></div>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          </p>
+        
         </div>
 
         <div className="row">
@@ -29,7 +26,7 @@ const WhatWeOffer = () => {
 
               <h3>
                 <Link href="/service-details">
-                  <a>Creation de site internet</a>
+                  <a>Création de site internet</a>
                 </Link>
               </h3>
               <p>
@@ -39,11 +36,6 @@ const WhatWeOffer = () => {
                 le web.
               </p>
 
-              <Link href="/service-details">
-                <a className="learn-more-btn">
-                  <Icon.PlusCircle /> voir plus
-                </a>
-              </Link>
             </div>
           </div>
 
@@ -68,11 +60,7 @@ const WhatWeOffer = () => {
                 création de boutique en ligne dédié au PME.
               </p>
 
-              <Link href="/service-details">
-                <a className="learn-more-btn">
-                  <Icon.PlusCircle /> voir plus
-                </a>
-              </Link>
+            
             </div>
           </div>
 
@@ -97,11 +85,7 @@ const WhatWeOffer = () => {
                 médias sociaux et contactez notre agence aujourd'hui.
               </p>
 
-              <Link href="/service-details">
-                <a className="learn-more-btn">
-                  <Icon.PlusCircle /> voir plus
-                </a>
-              </Link>
+              
             </div>
           </div>
 
@@ -117,20 +101,16 @@ const WhatWeOffer = () => {
 
               <h3>
                 <Link href="/service-details">
-                  <a>Boutique en ligne</a>
+                  <a>Gestion des médias sociaux</a>
                 </Link>
               </h3>
               <p>
-                Vous souhaitez commercialiser vos produits sur internet et
-                atteindre une nouvelle clientèle? Khasyma propose un service de
-                création de boutique en ligne dédié au PME.
+              Nous créons du contenu partageable qui élève votre marque et transforme les abonnés en clients.
+Partagez vos nouveaux produits ou services et augmentez le 
+trafic de votre site Web en utilisant l'un de nos plans de médias sociaux
               </p>
 
-              <Link href="/service-details">
-                <a className="learn-more-btn">
-                  <Icon.PlusCircle /> voir plus
-                </a>
-              </Link>
+              
             </div>
           </div>
         </div>

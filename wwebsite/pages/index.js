@@ -25,7 +25,7 @@ const DigitalAgency = () => {
       <MainBanner />
       <WhatWeOffer />
       <AboutUsContent />
-      <OurServices />
+      {/* <OurServices /> */}
 
       <Projects />
 
