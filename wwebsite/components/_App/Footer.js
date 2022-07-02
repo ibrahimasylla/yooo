@@ -19,10 +19,9 @@ const Footer = () => {
                 </Link>
               </div>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi.
+                Khasyma est une agence web indépendante fondée à Montreal en
+                2019. Design, UX, Développement web et Référencement SEO sur
+                mesure.
               </p>
             </div>
           </div>

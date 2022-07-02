@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Lucida sans Unicode', 'Franklin Gothic Medium', 'Arial Narrow',
+    Arial, sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#circle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: blanchedalmond;
+  border-radius: 100px;
+  color: #fff;
+  cursor: pointer;
+  height: 200px;
+  width: 200px;
+  transition: cubic-bezier(0.075, 0.82, 0.165, 3);
+}
+
+.hover {
+  transform: scale(2);
+}

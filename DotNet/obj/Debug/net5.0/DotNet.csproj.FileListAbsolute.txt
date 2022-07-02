@@ -1,0 +1,15 @@
+/Users/khalil/Desktop/DotNet/bin/Debug/net5.0/DotNet.deps.json
+/Users/khalil/Desktop/DotNet/bin/Debug/net5.0/DotNet.runtimeconfig.json
+/Users/khalil/Desktop/DotNet/bin/Debug/net5.0/DotNet.runtimeconfig.dev.json
+/Users/khalil/Desktop/DotNet/bin/Debug/net5.0/DotNet.dll
+/Users/khalil/Desktop/DotNet/bin/Debug/net5.0/ref/DotNet.dll
+/Users/khalil/Desktop/DotNet/bin/Debug/net5.0/DotNet.pdb
+/Users/khalil/Desktop/DotNet/obj/Debug/net5.0/DotNet.csprojAssemblyReference.cache
+/Users/khalil/Desktop/DotNet/obj/Debug/net5.0/DotNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khalil/Desktop/DotNet/obj/Debug/net5.0/DotNet.AssemblyInfoInputs.cache
+/Users/khalil/Desktop/DotNet/obj/Debug/net5.0/DotNet.AssemblyInfo.cs
+/Users/khalil/Desktop/DotNet/obj/Debug/net5.0/DotNet.csproj.CoreCompileInputs.cache
+/Users/khalil/Desktop/DotNet/obj/Debug/net5.0/DotNet.dll
+/Users/khalil/Desktop/DotNet/obj/Debug/net5.0/ref/DotNet.dll
+/Users/khalil/Desktop/DotNet/obj/Debug/net5.0/DotNet.pdb
+/Users/khalil/Desktop/DotNet/obj/Debug/net5.0/DotNet.genruntimeconfig.cache

@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url('https://images.unsplash.com/photo-1497005367839-6e852de72767?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1734&q=80');
+  background-size: cover;
+  background-position: center center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  min-height: 100vh;
+
+  font-family: 'poppins ';
+  margin: 0;
+}
+h1 {
+  font-weight: normal;
+  font-size: 4rem;
+}
+.countdonw-container {
+  display: flex;
+}
+
+span {
+}
+.big-text {
+  font-size: 6rem;
+
+  margin: 0 2rem;
+}
+
+.countdonw-el {
+  text-align: center;
+}
+
+.countdonw-el span {
+  font-size: 1.5rem;
+}

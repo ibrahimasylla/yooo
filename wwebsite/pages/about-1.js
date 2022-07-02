@@ -39,22 +39,11 @@ const About1 = () => {
                 </div>
 
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
-                  sagittis egestas ante, sed viverra nunc tincidunt nec nteger
-                  nonsed condimntum elit, sit amet feugiat lorem. Proin tempus
-                  sagittis velit vitae scelerisque.
-                </p>
-
-                <p>
-                  Lorem ipsum dolor sit amet, con se ctetur adipiscing elit. In
-                  sagittis eg esta ante, sed viverra nunc tinci dunt nec elei
-                  fend et tiram.
-                </p>
-
-                <p>
-                  Business-to-business metrics analytics value proposition
-                  funding angel investor entrepreneur alpha ramen equity
-                  gamification. Social proof partner network research.
+                  Passionné du web et du digital, nous avons bâti une excellente
+                  réputation sur chaque territoire où nous opérons. Notre agence
+                  de développement web propose une approche 360°, orientée
+                  autour des besoins d'expérience, de performance et de sécurité
+                  de notre clientèle.
                 </p>
               </div>
             </div>

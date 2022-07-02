@@ -11,7 +11,19 @@
     "id": "./node_modules/react-owl-carousel3/lib/OwlCarousel.js",
     "files": []
   },
+  "../components/Common/RecentWorks.js -> react-owl-carousel3": {
+    "id": "./node_modules/react-owl-carousel3/lib/OwlCarousel.js",
+    "files": [
+      "static/chunks/node_modules_react-owl-carousel3_lib_OwlCarousel_js.js"
+    ]
+  },
   "../components/Common/Team.js -> react-owl-carousel3": {
+    "id": "./node_modules/react-owl-carousel3/lib/OwlCarousel.js",
+    "files": [
+      "static/chunks/node_modules_react-owl-carousel3_lib_OwlCarousel_js.js"
+    ]
+  },
+  "../components/DigitalAgency/Projects.js -> react-owl-carousel3": {
     "id": "./node_modules/react-owl-carousel3/lib/OwlCarousel.js",
     "files": []
   }
