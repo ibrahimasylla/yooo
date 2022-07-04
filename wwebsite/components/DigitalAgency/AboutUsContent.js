@@ -9,7 +9,7 @@ const AboutUsContent = () => {
           <div className="col-lg-6 col-md-12">
             <div className="agency-about-img">
               <img
-                src="/images/agency-image/agency-about-img.jpg"
+                src="https://images.unsplash.com/photo-1551590192-8070a16d9f67?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2942&q=80"
                 alt="image"
               />
             </div>
@@ -32,9 +32,6 @@ const AboutUsContent = () => {
                 votre image, optimisez votre visibilité, générez du trafic et
                 des conversions avec notre agence web à Montreal.
               </p>
-              <Link href="/about">
-                <a className="btn btn-secondary">Voir Plus</a>
-              </Link>
             </div>
           </div>
         </div>

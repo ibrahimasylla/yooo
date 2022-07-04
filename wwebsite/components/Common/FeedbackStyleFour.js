@@ -41,7 +41,7 @@ const FeedbackStyleFour = () => {
                   alt="image"
                 />
                 <h3>Sarah Taylor</h3>
-                <span>CEO at Envato</span>
+                <span>CEO at Samidax</span>
               </div>
               <p>
                 Excellente agence, compétente et professionnelle. Très bon
@@ -80,7 +80,6 @@ const FeedbackStyleFour = () => {
                   alt="image"
                 />
                 <h3>Josie Dion</h3>
-                <span>CEO at Envato</span>
               </div>
               <p>
                 Comparé aux autres entreprises que nous avons utilisées dans le

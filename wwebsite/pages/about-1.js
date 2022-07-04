@@ -21,7 +21,10 @@ const About1 = () => {
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-12">
               <div className="about-image">
-                <img src="/images/about-one.png" alt="image" />
+                <img
+                  src="https://images.unsplash.com/photo-1551590192-8070a16d9f67?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2942&q=80"
+                  alt="image"
+                />
               </div>
             </div>
 

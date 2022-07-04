@@ -10,7 +10,6 @@ const WhatWeOffer = () => {
           <span className="sub-title">Ce que nous offrons</span>
           <h2>Nos solutions vedettes</h2>
           <div className="bar"></div>
-        
         </div>
 
         <div className="row">
@@ -25,9 +24,7 @@ const WhatWeOffer = () => {
               </div>
 
               <h3>
-                <Link href="/service-details">
-                  <a>Création de site internet</a>
-                </Link>
+                <a>Création de site internet</a>
               </h3>
               <p>
                 Vous souhaitez rendre les produits, services de votre entreprise
@@ -35,7 +32,6 @@ const WhatWeOffer = () => {
                 site web dédié aux PME pour les aider dans leur croissance sur
                 le web.
               </p>
-
             </div>
           </div>
 
@@ -50,17 +46,13 @@ const WhatWeOffer = () => {
               </div>
 
               <h3>
-                <Link href="/service-details">
-                  <a>Boutique en ligne</a>
-                </Link>
+                <a>Boutique en ligne</a>
               </h3>
               <p>
                 Vous souhaitez commercialiser vos produits sur internet et
                 atteindre une nouvelle clientèle? Khasyma propose un service de
                 création de boutique en ligne dédié au PME.
               </p>
-
-            
             </div>
           </div>
 
@@ -75,17 +67,13 @@ const WhatWeOffer = () => {
               </div>
 
               <h3>
-                <Link href="/service-details">
-                  <a>Publicité en ligne</a>
-                </Link>
+                <a>Publicité en ligne</a>
               </h3>
               <p>
                 Vous souhaitez promouvoir votre marque sur les plateformes
                 préférées de vos clients? Consultez nos forfaits de publicité
                 médias sociaux et contactez notre agence aujourd'hui.
               </p>
-
-              
             </div>
           </div>
 
@@ -100,17 +88,14 @@ const WhatWeOffer = () => {
               </div>
 
               <h3>
-                <Link href="/service-details">
-                  <a>Gestion des médias sociaux</a>
-                </Link>
+                <a>Gestion des médias sociaux</a>
               </h3>
               <p>
-              Nous créons du contenu partageable qui élève votre marque et transforme les abonnés en clients.
-Partagez vos nouveaux produits ou services et augmentez le 
-trafic de votre site Web en utilisant l'un de nos plans de médias sociaux
+                Nous créons du contenu partageable qui élève votre marque et
+                transforme les abonnés en clients. Partagez vos nouveaux
+                produits ou services et augmentez le trafic de votre site Web en
+                utilisant l'un de nos plans de médias sociaux
               </p>
-
-              
             </div>
           </div>
         </div>

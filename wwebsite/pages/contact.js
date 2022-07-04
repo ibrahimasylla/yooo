@@ -17,8 +17,6 @@ const Contact = () => {
 
       <ContactInfo />
 
-
-
       <ContactForm />
 
       <Footer />

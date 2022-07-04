@@ -55,49 +55,34 @@ des exemples de travaux réalisés.</p>
                     {...options}
                 >  
                     <div className="single-ml-projects-box">
-                        <img src="/images/projects-img1.jpg" alt="image" />
+                        <img src="/images/site11.jpeg" alt="image" />
                         <div className="plus-icon">
-                            <Link href="/project-details">
-                                <a><span></span></a>
-                            </Link>
+                           
                         </div>
                     </div>
 
                     <div className="single-ml-projects-box">
                         <img src="/images/projects-img2.jpg" alt="image" />
                         <div className="plus-icon">
-                            <Link href="/project-details">
-                                <a><span></span></a>
-                            </Link>
+                           
                         </div>
                     </div>
 
                     <div className="single-ml-projects-box">
                         <img src="/images/projects-img3.jpg" alt="image" />
                         <div className="plus-icon">
-                            <Link href="/project-details">
-                                <a><span></span></a>
-                            </Link>
+                            
                         </div>
                     </div>
 
                     <div className="single-ml-projects-box">
                         <img src="/images/projects-img4.jpg" alt="image" />
                         <div className="plus-icon">
-                            <Link href="/project-details">
-                                <a><span></span></a>
-                            </Link>
+                          
                         </div>
                     </div>
 
-                    <div className="single-ml-projects-box">
-                        <img src="/images/projects-img5.jpg" alt="image" />
-                        <div className="plus-icon">
-                            <Link href="/project-details">
-                                <a><span></span></a>
-                            </Link>
-                        </div>
-                    </div>
+                   
                 </OwlCarousel> : ''}
             </div>
 

@@ -31,22 +31,22 @@ const Footer = () => {
               <h3>Pages</h3>
               <ul className="list">
                 <li>
-                  <Link href="/about-1">
+                  <Link href="/">
                     <a>Accueil </a>
                   </Link>
                 </li>
                 <li>
-                  <Link href="/services-1">
+                  <Link href="/about-1">
                     <a>À propos</a>
                   </Link>
                 </li>
                 <li>
-                  <Link href="/features">
+                  <Link href="/services-5">
                     <a>services</a>
                   </Link>
                 </li>
                 <li>
-                  <Link href="/pricing">
+                  <Link href="/contact">
                     <a> Contact</a>
                   </Link>
                 </li>
@@ -79,13 +79,12 @@ const Footer = () => {
 
           <div className="col-lg-3 col-md-6">
             <div className="single-footer-widget">
-              <h3>Address</h3>
+              <h3>Adresse</h3>
 
               <ul className="footer-contact-info">
                 <li>
                   <Icon.MapPin />
-                  Afrique de l'ouest <br />
-                  Amerique du nord
+                  Montreal <br />
                 </li>
                 <li>
                   <Icon.Mail />
@@ -101,40 +100,23 @@ const Footer = () => {
               <ul className="social-links">
                 <li>
                   <a
-                    href="https://www.facebook.com/"
+                    href="https://m.facebook.com/Khasyma-105821402190382//"
                     className="facebook"
                     target="_blank"
                   >
                     <Icon.Facebook />
                   </a>
                 </li>
+
                 <li>
                   <a
-                    href="https://www.twitter.com/"
-                    className="twitter"
-                    target="_blank"
-                  >
-                    <Icon.Twitter />
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="https://www.instagramcom/"
+                    href="https://instagram.com/khasymacloud?igshid=YmMyMTA2M2Y="
                     className="instagram"
                     target="_blank"
                   >
                     <Icon.Instagram />
                   </a>
-                </li>
-                <li>
-                  <a
-                    href="https://www.linkedin.com/"
-                    className="linkedin"
-                    target="_blank"
-                  >
-                    <Icon.Linkedin />
-                  </a>
-                </li>
+                </li> 
               </ul>
             </div>
           </div>
